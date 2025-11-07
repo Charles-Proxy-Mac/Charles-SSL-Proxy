@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://crissyarp.github.io/.github/charles">  
+<a href="https://amapolalavi.github.io/.github/charles">  
 <img src="https://img.shields.io/badge/GET_Charles_Proxy-darkgreen?style=for-the-badge&logo=apple" alt="GET Charles Proxy">  
 </a>  
 </div>  
